@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "async": "^3.2.3",
+    "cheerio": "^1.0.0-rc.11",
+    "excel4node": "^1.2.1",
+    "html-pdf-node": "^1.0.7",
+    "request": "^2.88.2"
+  },
+  "type": "module"
+}
